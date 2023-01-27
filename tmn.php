@@ -6,7 +6,7 @@ $titulo = $_POST["titulo"];
 $mensagem = $_POST["mensagem"];
 
  $channelName = 'news';
- /* Tokens: 1)Guilherme - 2)Marcello */
+ /* Tokens: 1)Guilherme - 2)Marcello   */
  $recipient= ['ExponentPushToken[Aak41dPb_OImfGxGCelRfz]','ExponentPushToken[XS_qc1AcdpKNmV_fukD-kY]' ];
  
  // You can quickly bootup an expo instance
